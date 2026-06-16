@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './styles.css';
+import './App.css'
 
 const RecuperarSenha = () => {
   // Estado para armazenar o e-mail digitado
