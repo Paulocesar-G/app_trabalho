@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './styles.css'; // Importando seus arquivos CSS
+import './index.css'; // Importando seus arquivos CSS
 import './mobile.css';
 
 const LoginPage = () => {
